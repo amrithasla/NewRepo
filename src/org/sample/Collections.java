@@ -8,7 +8,7 @@ import java.util.Set;
 public class Collections {
 public static void main(String[] args) {
 	
-	Set<Integer> s = new 
+	//Set<Integer> s = new 
 //	List<Integer> l = new LinkedList<Integer>();
 //	
 //	l.add(10);         //0
@@ -73,4 +73,3 @@ public static void main(String[] args) {
 //		System.out.println(x);
 	}
 }	
-}
