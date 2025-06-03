@@ -31,7 +31,6 @@ public class ArrayClass {
 		String[] split = s.split("a");
 		for (String y : split) {
 			System.out.println(y);
-			System.out.println(d);
 
 		}
 	}
